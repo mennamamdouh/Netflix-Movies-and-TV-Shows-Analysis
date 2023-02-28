@@ -12,10 +12,9 @@ This project's dataset is an open-source data from __Kaggle__.
 <br>
 
 > [You can find it here.](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-<br>
 
 <u>
-The dataset contains one *csv* file which has the following information:
+The dataset contains one "csv" file which has 7787 entries with the following information:
 </u>
 
 * __Type__: Movie or TV Show
@@ -41,5 +40,59 @@ This project was done in Python using Jupyter Notebooks. The libraries used are:
 
 ## __Phases of the project__ ##
 ### 1. Data Exploration ###
+
+<ul>
+
+After reading the data I have to explore it, its columns, and the info it contains. So, I've gained information about:
+
+1. The dataset size
+2. The datatypes of the columns
+3. What each column represents
+4. What are the information inside the categorized columns such as  __type__, __listed_in__, __rating__ and __country__.
+
+</ul>
+
+<hr>
+
 ### 2. Data Cleaning ###
+
+<ul>
+
+After exploring the data, I need to check it if there are any issues.
+
+1. Search for duplicates
+  
+    * Fortunately, it has no duplicates.
+
+2. Search for nulls
+
+    2.1. Columns with few nulls
+
+   * Solution 1: Get the missing information by searching for them
+   * Solution 2: Drop them
+    
+    2.2. Columns with many nulls
+
+    * Solution: I wasn't interested in those columns so I left them as they're
+
+3. Change the incorrect datatypes into appropriate datatypes
+
+</ul>
+
+<hr>
+
 ### 3. Data Analysis and Visualization ###
+
+<ul>
+
+<u> The questions I was interested to know are:</u>
+
+1. The percentage of movies and tv shows in this data
+2. The growth of content creations over the years
+3. Monitor content creations along the months
+4. The oldest 10 tv series and movies
+5. The highest 10 countries contributed in contect creation
+6. The most frequenct categories
+7. Number of movies and tv shows by MPA rating
+
+</ul>
