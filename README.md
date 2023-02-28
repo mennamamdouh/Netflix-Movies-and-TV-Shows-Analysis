@@ -1,9 +1,37 @@
 # Netflix-Movies-and-TV-Shows-Analysis
+## __Table of Contents__ ##
+<ul>
+
+[1. About the project](#about-the-project)
+
+[2. About the dataset](#about-the-dataset)
+
+[3. Tools and libraries](#tools-and-libraries)
+
+[4. Phases of the project](#phases-of-the-project)
+
+<ul>
+
+  [4.1. Data Exploration](#1-data-exploration)
+
+  [4.2. Data Cleaning](#2-data-cleaning)
+
+  [4.3. Data Analysis and Visualization](#3-data-analysis-and-visualization)
+
+</ul>
+
+</ul>
+
+<hr>
+
 ## __About the project__ ##
 This project is a self-study project, its main objective is to help me practice on a real dataset and strength my analysis skills in Python.
 <br>
 
-It is about cleaning and analyzing Netflix movies and tv shows data, and getting insights about the countries where they were filmed, their ratings, release years, and their cast.
+It is about cleaning and analyzing Netflix movies and tv shows data, and getting insights about the countries where they were filmed, their ratings and release years.
+<br>
+
+The detailed notebook of the project is [here](Analyzing%20Netflix%20Data.ipynb).
 
 <hr>
 
@@ -32,7 +60,9 @@ The dataset contains one "csv" file which has 7787 entries with the following in
 <hr>
 
 ## __Tools and libraries__ ##
-This project was done in Python using Jupyter Notebooks. The libraries used are:
+This project was done in Python using Jupyter Notebooks.
+
+The libraries used are:
 * __Pandas and Numpy__: for exploration, cleaning and analysis
 * __Matplotlib and Seaborn__: for visualizations
 
@@ -156,3 +186,5 @@ The questions I was interested to know are:
   </ul>
 
 </ul>
+
+<hr>
