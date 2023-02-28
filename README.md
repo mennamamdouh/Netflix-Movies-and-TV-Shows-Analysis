@@ -85,14 +85,74 @@ After exploring the data, I need to check it if there are any issues.
 
 <ul>
 
-<u> The questions I was interested to know are:</u>
+<u>
+The questions I was interested to know are:
+</u>
 
 1. The percentage of movies and tv shows in this data
+
+  <ul>
+  
+  ![image](https://user-images.githubusercontent.com/70551007/222007443-a711f14f-7d65-4149-97bf-0f33afc9ae99.png)
+
+  > The dataset has 70.7% of its entries movies and the rest are tv shows.
+  
+  </ul>
+
+
 2. The growth of content creations over the years
+
+  <ul>
+  
+  ![image](https://user-images.githubusercontent.com/70551007/222007386-455595d6-92fa-4f07-bf9b-733f9f85434a.png)
+
+  > The results shows that the year which has the highest number of content creations is 2018 which means that the data may be not complete.
+  
+  </ul>
+
 3. Monitor content creations along the months
+  <ul>
+  
+  ![image](https://user-images.githubusercontent.com/70551007/222007273-1352b673-4c90-4e8d-a07c-445333d3be0d.png)
+
+  > December is the month when the highest number of content occurs.
+  
+  </ul>
+
 4. The oldest 10 tv series and movies
+  <ul>
+  
+  4.1. The oldest 10 tv shows
+  
+  ![image](https://user-images.githubusercontent.com/70551007/222007153-a06c604d-2f47-44e7-acbb-9c53a5869854.png)
+
+  4.2. The oldest 10 movies
+  
+  ![image](https://user-images.githubusercontent.com/70551007/222007184-d4adfe53-377f-4444-bc8a-a70e44317a75.png)
+
+  </ul>
+
 5. The highest 10 countries contributed in contect creation
+  <ul>
+  
+  ![image](https://user-images.githubusercontent.com/70551007/222006781-0a5e77a2-6564-41c1-9d86-eba8100c9341.png)
+  
+  > United States is the top 1 country contributed in both movies and tv shows
+  
+  </ul>
+  
 6. The most frequenct categories
-7. Number of movies and tv shows by MPA rating
+  <ul>
+  
+  ![image](https://user-images.githubusercontent.com/70551007/222006721-3aaac1cc-3851-4a1a-b752-9ff7ce5ddd09.png)
+
+  </ul>
+
+7. Number of movies and tv shows by MPA rating for top 10 MPA ratings
+  <ul>
+  
+  ![image](https://user-images.githubusercontent.com/70551007/222007002-48d47f5d-ce4d-457f-85d5-ccee0a769532.png)
+
+  </ul>
 
 </ul>
